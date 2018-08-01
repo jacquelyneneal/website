@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jacquelyn E Neal</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jacquelyn E Neal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jacquelyn E Neal</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing Multistate Modeling Methods with Application to Alzheimer&#39;s Disease</title>
+      <link>/talk/enar2018/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/enar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Opportunities to Build Community: Perspectives from Women in the Vanderbilt Biostatistics Graduate Program</title>
+      <link>/talk/wsds2017/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/wsds2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forced Migration: Visualizing Refugee Movements</title>
+      <link>/talk/refugee2017/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/refugee2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Visualization of Consumer Expenditure Public-Use Metadata</title>
+      <link>/talk/gsscomp2017/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/gsscomp2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Progressive Disease Using Longitudinal Panel Data with Applications to Alzheimer&#39;s Disease</title>
+      <link>/talk/enar2017/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/enar2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Progressive Disease Using Longitudinal Panel Data</title>
+      <link>/talk/studentseminar2016/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/studentseminar2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomatoes from Tomatoes: Using the Effluent of Anaerobically Digested Tomatoes to Fertilize Plants</title>
+      <link>/talk/effluent2013/</link>
+      <pubDate>Tue, 30 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/effluent2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
